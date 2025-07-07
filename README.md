@@ -12,6 +12,10 @@
 <p align="center">
   <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="400" />
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aayushinit&style=flat&color=brightgreen" alt="Profile views"/>
+</p>
+
 
 ---
 
