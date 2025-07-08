@@ -151,7 +151,7 @@
 </h2>
 
 <p align="center">
-  <img align ="center" src="https://github-readme-stats.vercel.app/api?username=Aayushinit&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aayushinit&show_icons=true&theme=tokyonight&cache_seconds=43200" />
   <br><br>
   <img align ="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aayushinit&theme=tokyonight" />
   <br><br>
